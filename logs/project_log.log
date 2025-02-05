@@ -1,0 +1,8 @@
+2025-02-04 22:38:37.876 | INFO     | utils.utils_logger:<module>:38 - Logging to file: logs\project_log.log
+2025-02-04 22:38:37.882 | INFO     | __main__:<module>:50 - Project root: C:\Users\queen\Projects\buzzline-04-badeniyan
+2025-02-04 22:38:37.882 | INFO     | __main__:<module>:54 - Data folder: C:\Users\queen\Projects\buzzline-04-badeniyan\data
+2025-02-04 22:38:37.883 | INFO     | __main__:<module>:58 - Data file: C:\Users\queen\Projects\buzzline-04-badeniyan\data\buzz_live.json
+2025-02-04 22:38:37.883 | INFO     | __main__:main:125 - START producer...
+2025-02-04 22:38:37.884 | INFO     | __main__:main:126 - Hit CTRL c (or CMD c) to close.
+2025-02-04 22:38:37.884 | INFO     | __main__:get_message_interval:40 - Message interval: 3 seconds
+2025-02-04 22:38:37.885 | INFO     | __main__:main:134 - {'message': 'I just tried a trick! It was weird.', 'author': 'Eve'}
